@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ell Tee.
-- 👀 I’m interested in visualization, UI/UX, creator tools...
+- 👀 I’m interested in front end thangs...
 - 🌱 I’m currently learning the basics.
 - 💞️ I’m looking to collaborate on stuff later.
 - 📫 Reach me by email.
